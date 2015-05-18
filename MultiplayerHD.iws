@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e5d1147-743d-4cbf-ac0a-a622f6dad656" name="Default" comment="Removed TileEntites.">
-      <change type="DELETED" beforePath="C:\Users\thomas\Desktop\Programing\Modding\MultiplayerHD\src\main\java\com\blockingHD\MultiplayerHD\blocks\BlockCamoMine.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\thomas\Desktop\Programing\Modding\MultiplayerHD\src\main\java\com\blockingHD\MultiplayerHD\blocks\BlockMHDTileEntity.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\thomas\Desktop\Programing\Modding\MultiplayerHD\src\main\java\com\blockingHD\MultiplayerHD\init\ModTileEntities.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\thomas\Desktop\Programing\Modding\MultiplayerHD\src\main\java\com\blockingHD\MultiplayerHD\network\MessageExplode.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\thomas\Desktop\Programing\Modding\MultiplayerHD\src\main\java\com\blockingHD\MultiplayerHD\tileentity\TileEntityCamoMine.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/blockingHD/MultiplayerHD/client/handler/KeyInputEventHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/blockingHD/MultiplayerHD/client/handler/KeyInputEventHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/blockingHD/MultiplayerHD/init/ModBlocks.java" afterPath="$PROJECT_DIR$/src/main/java/com/blockingHD/MultiplayerHD/init/ModBlocks.java" />
+    <list default="true" id="7e5d1147-743d-4cbf-ac0a-a622f6dad656" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MultiplayerHD.iws" afterPath="$PROJECT_DIR$/MultiplayerHD.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/blockingHD/MultiplayerHD/MultiplayerHD.java" afterPath="$PROJECT_DIR$/src/main/java/com/blockingHD/MultiplayerHD/MultiplayerHD.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/blockingHD/MultiplayerHD/reference/Names.java" afterPath="$PROJECT_DIR$/src/main/java/com/blockingHD/MultiplayerHD/reference/Names.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/blockingHD/MultiplayerHD/network/NetworkHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/blockingHD/MultiplayerHD/network/NetworkHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/multiplayerhd/lang/en_US.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/multiplayerhd/lang/en_US.lang" />
     </list>
     <ignored path="MultiplayerHD.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -651,6 +640,13 @@
       <option name="number" value="Default" />
       <updated>1431865830949</updated>
     </task>
+    <task id="LOCAL-00001" summary="Removed TileEntites.">
+      <created>1431969559127</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1431969559127</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
