@@ -9,7 +9,6 @@ item.multiplayerhd:DryStick.name=Dry Stick
 #Blocks
 tile.multiplayerhd:WoodLamp.name=Wood Lamp
 tile.multiplayerhd:Nickel_ore.name=Nickel ore
-tile.CamoMine.name=Camo Mine
 
 #Creative Tabs
 itemGroup.multiplayerhd=MultiplayerHD

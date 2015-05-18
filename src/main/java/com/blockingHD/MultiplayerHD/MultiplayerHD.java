@@ -4,7 +4,6 @@ import com.blockingHD.MultiplayerHD.client.handler.KeyInputEventHandler;
 import com.blockingHD.MultiplayerHD.handler.ConfigHandler;
 import com.blockingHD.MultiplayerHD.init.ModBlocks;
 import com.blockingHD.MultiplayerHD.init.ModItems;
-import com.blockingHD.MultiplayerHD.init.ModTileEntities;
 import com.blockingHD.MultiplayerHD.init.Recipes;
 import com.blockingHD.MultiplayerHD.network.NetworkHandler;
 import com.blockingHD.MultiplayerHD.proxy.IProxy;
@@ -38,7 +37,6 @@ public class MultiplayerHD {
 
 		// world generators registration
 		GameRegistry.registerWorldGenerator(new WorldGeneratorLamp(), 0);
-        ModTileEntities.init();
 		NetworkHandler.init();
 		logHelper.info("PreInit Complete!");
 
