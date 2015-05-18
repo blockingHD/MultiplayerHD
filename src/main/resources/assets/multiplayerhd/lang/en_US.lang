@@ -5,6 +5,7 @@ keys.multiplayerhd.release=Release
 
 #Items
 item.multiplayerhd:DryStick.name=Dry Stick
+item.multiplayerhd:Wok.name=Wok
 
 #Blocks
 tile.multiplayerhd:WoodLamp.name=Wood Lamp
