@@ -6,6 +6,7 @@ public class ModBlocks {
 
 	public static final BlockMHD WoodLamp = new BlockWoodLamp();
 	public static final BlockMHD Nickel_ore = new BlockOreNickel();
+	public static final BlockMHD Cheese = new BlockCheese();
 
 	public static void init() {
 
