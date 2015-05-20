@@ -8,8 +8,4 @@ public final class Names {
 		public static final String RELEASE = "keys.multiplayerhd.release";
 	}
 
-	public static class TileEntities{
-		public static final String CAMO_MINE = Reference.MOD_ID + ":camoMine";
-	}
-
 }

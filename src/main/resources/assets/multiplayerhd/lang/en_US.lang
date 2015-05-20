@@ -5,11 +5,12 @@ keys.multiplayerhd.release=Release
 
 #Items
 item.multiplayerhd:DryStick.name=Dry Stick
+item.multiplayerhd:Wok.name=Wok
 
 #Blocks
 tile.multiplayerhd:WoodLamp.name=Wood Lamp
 tile.multiplayerhd:Nickel_ore.name=Nickel ore
-tile.CamoMine.name=Camo Mine
+tile.multiplayerhd:Cheese_Block.name=Cheese Block
 
 #Creative Tabs
 itemGroup.multiplayerhd=MultiplayerHD
