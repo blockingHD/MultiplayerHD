@@ -10,7 +10,7 @@ item.multiplayerhd:Wok.name=Wok
 #Blocks
 tile.multiplayerhd:WoodLamp.name=Wood Lamp
 tile.multiplayerhd:Nickel_ore.name=Nickel ore
-tile.multiplayerhd:Cheese.name=Cheese
+tile.multiplayerhd:Cheese_Block.name=Cheese Block
 
 #Creative Tabs
 itemGroup.multiplayerhd=MultiplayerHD
