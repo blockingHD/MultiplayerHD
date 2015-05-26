@@ -7,6 +7,7 @@ keys.multiplayerhd.release=Release
 item.multiplayerhd:DryStick.name=Dry Stick
 item.multiplayerhd:Wok.name=Wok
 item.multiplayerhd:Cheese_Ingot.name=Cheese ingot
+item.multiplayerhd:Nickel_Ingot.name=Nickel ingot
 
 #Blocks
 tile.multiplayerhd:WoodLamp.name=Wood Lamp
